@@ -1,0 +1,13 @@
+<svg width="1512" height="4946" viewBox="0 0 1512 4946" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<rect width="1512" height="4946" fill="#D30000"/>
+<rect width="1512" height="4946" fill="url(#pattern0_333_338)" fill-opacity="0.12"/>
+<defs>
+<pattern id="pattern0_333_338" patternUnits="userSpaceOnUse" viewBox="15653.7 1756.47 129.252 101.814" width="8.5484408827685812%" height="2.0585187764674893%" x="703.51" y="2450.19" patternContentUnits="objectBoundingBox">
+<g id="pattern0_333_338_inner">
+<path d="M15535 1791.7C15536.2 1800.66 15549.6 1802.46 15554.8 1786.93C15557.7 1778.41 15559.1 1765.42 15554 1761.44C15549.6 1757.92 15545.1 1762.05 15545.1 1764.87C15545.1 1767.69 15546.6 1769.72 15550.7 1770.51C15556.4 1771.61 15570.2 1764.5 15577.5 1760.33C15582.1 1757.68 15558.6 1798.04 15574.4 1798.04C15587.1 1798.04 15589.8 1772.36 15589.8 1760V1769.22M15589.8 1798.57L15589.8 1769.22M15589.8 1769.22C15591.2 1762.49 15604.4 1754.12 15612.6 1766.28C15617.5 1773.6 15611.9 1790.79 15616.6 1795.95C15621.4 1801.12 15632.5 1798.04 15632.9 1791.66" stroke="#FDD3CF" stroke-width="7.05954" stroke-miterlimit="16" stroke-linecap="round" fill-opacity="0.12" stroke-linejoin="round"/>
+</g>
+<use xlink:href="#pattern0_333_338_inner" transform="translate(129.252 0)"/>
+<use xlink:href="#pattern0_333_338_inner" transform="translate(64.6262 50.9072)"/>
+<use xlink:href="#pattern0_333_338_inner" transform="translate(193.879 50.9072)"/>
+</pattern></defs>
+</svg>
