@@ -17,6 +17,7 @@ body {
     color: var(--almost-back);
     font-family: 'Geologica', sans-serif;
     font-weight: 200;
+    font-size: 1rem;
 }
 
 
@@ -256,7 +257,7 @@ a {
 
 .capa-projeto {
     width: 100%;
-    height: 70vh; /* podes ajustar: 100vh para altura total do ecrã */
+    height: 70vh;
     overflow: hidden;
     position: relative;
 }
@@ -272,3 +273,53 @@ img {
     max-width: 100%;
     height: auto;
 }
+
+/* parte responsive */
+
+@media (max-width: 1200px) {
+    .cover {
+        display: none;
+    }
+
+    body {
+        background: var(--light-pink);
+    }
+
+    .main-body {
+        background-image: none;
+        justify-content: normal;
+        height: auto;
+    }
+
+    footer i {
+        color: var(--almost-back);
+
+    }
+
+}
+
+@media (max-width: 850px) {
+    .quote {
+        font-size: 1.3rem;
+        padding: 80px 20px 40px;
+    }
+
+    .row > [class^="col-"] {
+        width: 100% !important;
+        margin-bottom: 30px;
+    }
+
+  
+
+
+
+
+}
+
+@media (max-width: 480px) {
+    body {
+        font-size: 0.95rem;
+    }
+}
+
+
